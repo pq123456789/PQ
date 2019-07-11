@@ -192,36 +192,12 @@ a{
     text-align: center;
 }
 .but{
+	
 	width: 100%;
-	height: 365px;
+	height: 765px;
 	margin-top:40px;
 }
-.but_one{
-	border: 1px solid #cccccc;
-	width: 425px;
-	height: 314px;
-	float: left;
-	margin-left: 320px;
-}
-.but_one1{
-	margin:40px 140px;
-	width: 200px;
-}
-.but_one11{
-	margin-left: 40px;
-	font-size: 16px
-}
-.but_one12{
-	font-size: 12px;
-	
-}
-.but_one1 input{
-	width: 170px;
-	height: 26px;
-}
-.but_one13 li{
-	float: left;
-}
+
 .denlu{
 	background-color:#9e1503;
 	 color: white;  
@@ -238,7 +214,7 @@ a{
 	height: 765px;
 	border: 1px solid #cccccc;
 	float: left;
-	margin-left: 40px;
+	margin-left: 330px;
 }
 .but_two1{
 	margin:40px 120px;
